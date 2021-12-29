@@ -1,4 +1,4 @@
-# Github
+# Git course
 
 arquivo para a aula de git e github para iniciantes
 
@@ -7,7 +7,7 @@ jealousy is a desease,
 die slw.
 
 	ih viche
-
+	aé
 
 
 
