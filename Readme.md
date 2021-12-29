@@ -8,7 +8,7 @@ die slw.
 
 	ih viche
 	aé
-
+	(palavras inuadiveis.)
 
 
 
